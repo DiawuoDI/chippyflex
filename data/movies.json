@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Continental",
+        "description": "Set in 1970s New York City, The Continental explores the origin of the iconic hotel-for-assassins centerpiece of the John Wick universe seen through the eyes and action of a young Winston Scott.",
+        "releaseDate":"22-9-2023",
+        "releaseYear": 2023,
+        "duration": 230,
+        "directors":["Greg Coolidge "],
+        "genres": [
+           "Action", 
+           "Crime", 
+           "Thriller"
+    ],
+       "rating": 7.4,
+       "totalRating": 6640,
+       "actors": [
+           " Mel Gibson ",
+           "Colin Woodell",
+           "Mishel Prada" 
+       ],
+       "price": 49
+    }
+]
