@@ -30,6 +30,7 @@ process.on('unhandledRejection', (err) => {
     console.log(err.name, err.message);
     console.log('Unhandled rejection occured!');
 
+    
     Server.class(() => {
         process.exit(1);
     })
